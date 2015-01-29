@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>text/bullet.txt</file>
+        <file>text/enemies.txt</file>
+    </qresource>
+</RCC>

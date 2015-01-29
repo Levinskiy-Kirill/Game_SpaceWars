@@ -1,0 +1,26 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define WIDTH_SCREEN 1366
+#define HEIGHT_SCREEN 768
+
+#define WIDTH_SCENE 1364
+#define HEIGHT_SCENE 737
+
+#define WALL_POS_X 1100
+#define WALL_POS_Y 0
+
+#define HERO_POS_X 1230
+
+#define WIDTH_SHIP 70
+#define HEIGHT_SHIP 60
+
+#define BULLET_SPEED 5
+
+#define LOGIC_TIMER 30
+
+#define COST_REPAIR 500
+#define COST_DAMAGE 2000
+#define COST_LIFE 3000
+
+#endif // CONSTANTS_H

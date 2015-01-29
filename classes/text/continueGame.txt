@@ -1,0 +1,5 @@
+[globalData]
+currentWave
+enemyOfWave
+money
+fullLife
